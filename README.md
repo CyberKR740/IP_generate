@@ -7,7 +7,7 @@
     <td class="main3">&#9733; <b>Description:</b></td>
   </tr>
   <tr>
-    <td class="main" width="890px"><p>
+    <td class="main" width="400px"><p>
 This script generates IP numbers. To generate a specific IP range, set the maximum number to which it should generate. To block an octet Repeat the number to be blocked at the maximum number. The generated IPs are saved in the file created at the beginning of the program.
 <br />
     </table>
