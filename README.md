@@ -3,7 +3,7 @@
 <table border="0" cellpadding="0" cellspacing="2" width="100%">
   <tr>
     <td width="100px" class="main2"><b>Tool:</b></td>
-    <td width="780px" class="main2"><b>criipar V1.0</b></td>
+    <td width="780px" class="main2"><b>IP_generate V1.0</b></td>
     <td class="main3">&#9733; <b>Description:</b></td>
   </tr>
   <tr>
