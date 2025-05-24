@@ -17,4 +17,3 @@ wget https://raw.githubusercontent.com/GMagNLL/criipa/master/.criipar.py<br/>
 <br>wget https://raw.githubusercontent.com/GMagNLL/criipa/master/.criipar.py<br/> <br>chmod +x .criipar.py<br/> <br>python3 .criipar.py<br/></td>
   </tr>
 </body>
-</html>
