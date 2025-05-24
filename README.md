@@ -4,14 +4,6 @@
   <tr>
     <td width="100px" class="main2"><b>Tool:</b></td>
     <td width="780px" class="main2"><b>criipar V1.0</b></td>
-  <tr>
-    <td width="100px" class="main2"><b>Author:</b></td><td width="780px">Zwdeff</td>
-  </tr>
-  <tr>
-    <td width="100px" class="main2"><b>Telegram:</b></td><td width="780px">@nZwdeff</td>
-  </tr>
-<table border="0" cellpadding="2" cellspacing="5" width="100%">
-  <tr>
     <td class="main3">&#9733; <b>Description:</b></td>
   </tr>
   <tr>
