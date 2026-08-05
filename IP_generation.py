@@ -1,21 +1,13 @@
 #!/usr/bin/evn python3
 # encoding: utf-8
 #
+#  [Programa] criipar IPs Numbers Generate v1.2
+#  [Privado - Machine] @SeichMachine740
+#  [copyright] Copyright © 2017
 #
-#  [Author] Zwdeff <santosandradeemerson0@gmail.com>
-#
-#
-#  [Program] criipar IPs Numbers Generate v1.2
-#  [Telegram - Channel] t.me/joinchat/AAAAAEANZwsT9F2Y-aBVIQ
-#  [Telegram - Privado] @nZwdeff
-#  [copyright] Copyright © 2017 All Rights Reserved @nZwdeff
-#
-#  [Info]
-#    Github https://github.com/GMagNLL/criipa ...
-#    This script generates IP numbers. To generate a specific IP range, set the ..
-#    maximum number to which it should generate. To block an octet Repeat the number ..
-#    to be blocked at the maximum number. The generated IPs are saved in the file created ..
-#    at the beginning of the program.
+# This script generates IP addresses.
+To generate a specific IP range, set the maximum number up to which it should be generated.
+To block an octet, repeat the number to be blocked at the maximum number. The generated IPs are saved in the created file.
 #  
 #  [License]
 #    Licensed under the Apache License, Version 2.0 (the "License"); you may
@@ -31,7 +23,7 @@
 #    under the License.
 
 __author__ = 'Zwdeff'
-__version__ = '1.2'
+__version__ = 'v0.4'
 
 from sys import *
 from time import *
