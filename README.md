@@ -14,6 +14,6 @@ wget https://raw.githubusercontent.com/CyberKR740/IP_generate/refs/heads/master
 requeriments: python3<br>apt-get install python3<br/>
   </td>
 
-<br>wget https://raw.githubusercontent.com/CyberKR740/IP_generate/refs/heads/master/IP_generation.py<br/> <br>chmod +x .criipar.py<br/> <br>python3 IP_generation.py<br/></td>
+<br>wget https://raw.githubusercontent.com/CyberKR740/IP_generate/refs/heads/master/IP_generation.py<br/> <br>chmod +x IP_generation.py<br/> <br>python3 IP_generation.py<br/></td>
   </tr>
 </body>
