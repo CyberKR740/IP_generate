@@ -14,6 +14,6 @@ wget https://raw.githubusercontent.com/GMagNLL/criipa/master/.criipar.py<br/>
  <b>requeriments: python3</b><br>apt-get install python3<br/>
   </td>
 
-<br>wget https://raw.githubusercontent.com/GMagNLL/criipa/master/.criipar.py<br/> <br>chmod +x .criipar.py<br/> <br>python3 .criipar.py<br/></td>
+<br>wget https://raw.githubusercontent.com/GMagNLL/criipa/master/IP_generation.py<br/> <br>chmod +x .criipar.py<br/> <br>python3 IP_generation.py<br/></td>
   </tr>
 </body>
